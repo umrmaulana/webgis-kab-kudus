@@ -697,7 +697,7 @@ a:focus {
 }
 
 .contact_section .form_container button:hover {
-  background-color: #00937d;
+  background-color: #252525;
 }
 
 .contact_section .img-box img {
@@ -735,7 +735,6 @@ a:focus {
   padding: 10px 45px;
   background-color: #2178fa;
   color: #ffffff;
-  border-radius: 5px;
   margin-top: 15px;
 }
 
@@ -743,7 +742,6 @@ a:focus {
   padding: 10px 45px;
   background-color: #252525;
   color: #ffffff;
-  border-radius: 5px;
   margin-top: 15px;
 }
 

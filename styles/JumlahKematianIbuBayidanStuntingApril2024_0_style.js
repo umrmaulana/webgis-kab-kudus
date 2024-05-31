@@ -115,7 +115,7 @@ var style_JumlahKematianIbuBayidanStuntingApril2024_0 = function (
         ),
       }),
     ];
-  } else if (value >= 581 && value <= 720) {
+  } else if (value >= 581) {
     style = [
       new ol.style.Style({
         stroke: new ol.style.Stroke({
